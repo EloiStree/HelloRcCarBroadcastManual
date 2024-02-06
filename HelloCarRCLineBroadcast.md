@@ -15,9 +15,10 @@ nPJfL0:T:Vx Vy Vz Qx Qy Qz Qw
 // Match State  
 nPJfL0:SAAA:SetBlue SetRed  PointBlue  PointRed
 
-// 
+// Trigger broadcast are information that are useful but not necessary to the game
 TB::Game Started
 TB::Game Terminated
+// If an id is given it is linked on this element.
 TB:nPJfL0:Car death
 
 // A new elemented had be created
