@@ -11,11 +11,12 @@ Time:DateTime.Now() Tick
 nPJfL0:t:Vx Vy Vz Ex Ey Ez 
 nPJfL0:T:Vx Vy Vz Qx Qy Qz Qw
 
-// S for Status
+// SXXX for Status S for status XXX for format id.
 // TB for Trigger Broadcast
+// G information on the game state
 
-// Match State  
-nPJfL0:SAAA:SetBlue SetRed  PointBlue  PointRed
+// Match State
+G:SAAA:SetBlue SetRed  PointBlue  PointRed
 
 // Trigger broadcast are information that are useful but not necessary to the game
 TB::Game Started
