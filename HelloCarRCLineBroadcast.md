@@ -12,8 +12,9 @@ nPJfL0:t:Vx Vy Vz Ex Ey Ez
 nPJfL0:T:Vx Vy Vz Qx Qy Qz Qw
 
 // SXXX for Status S for status XXX for format id.
-// TB for Trigger Broadcast
-// G information on the game state
+// TB:: for Trigger Broadcast
+// TB:ID: for Trigger Broadcast by an item.
+// GXXX information on the game state
 
 // Match State
 G:SAAA:SetBlue SetRed  PointBlue  PointRed
