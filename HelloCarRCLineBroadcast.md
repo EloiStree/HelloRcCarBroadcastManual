@@ -7,6 +7,8 @@ nPJfL0:SIDS:532de1f9-a8ef-47b1-bc2f-f7e07f03490c:Red Car 0:-54678
 Time:DateTime.Now() Tick
 
 // Position
+// t = euleur rotation, T = Quaternion rotation
+nPJfL0:t:Vx Vy Vz Ex Ey Ez 
 nPJfL0:T:Vx Vy Vz Qx Qy Qz Qw
 
 // S for Status
@@ -46,10 +48,10 @@ nPJfL0:SAAB: D Radius
 //// Complex Shape Drone
 
 // ID of the skin to use from the Munity DB
-nPJfL0:SCCA: 8668c072-6974-45ff-abff-50976fa9cd14
+nPJfL0:S3DM: 8668c072-6974-45ff-abff-50976fa9cd14
 
 // If lua battle, id of the lua code use for the element
-nPJfL0:SCCB: 8668c072-6974-45ff-abff-50976fa9cd14
+nPJfL0:SLUA: 8668c072-6974-45ff-abff-50976fa9cd14
 
 
 nPJfL0:SBBC: C {Complex shape}
