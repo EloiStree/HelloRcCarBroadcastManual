@@ -24,7 +24,7 @@ TB:nPJfL0:Car death
 TB:nPJfL0:Created
 
 // A elemented had be removed
-TB:nPJfL0:Created
+TB:nPJfL0:Destroyed
 
 
 // Log broadcast
