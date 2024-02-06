@@ -3,6 +3,11 @@
 // Group of id element in game
 nPJfL0:SIDS:532de1f9-a8ef-47b1-bc2f-f7e07f03490c:Red Car 0:-54678
 
+// Start sending information to the players
+START
+
+// Stop sending information to the players
+STOP
 
 Time:DateTime.Now() Tick
 
