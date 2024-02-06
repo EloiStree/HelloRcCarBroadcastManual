@@ -21,6 +21,15 @@ TB::Game Terminated
 TB:nPJfL0:Car death
 
 
+TB:nPJfL0:Created
+
+
+// Log broadcast
+// Just use for developer to log the game
+// Disable during official game
+LB: I am a log message.
+
+
 
 ID:StatusInfo: Format  based on status info
 ID:S
