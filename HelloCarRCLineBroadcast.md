@@ -38,6 +38,10 @@ SL: Server Log Message to the player
 AL: Admin Message to the player
 DL: Developer Message to the player
 CL: Community Message to the player
+SLID:1  Server Id of prerecored message
+ALID:53 Admin Id of prerecored message
+DLID:75 Developer Id of prerecored message
+CLID:89 Community Id of prerecored message
 
 
 // Group of id element in game
