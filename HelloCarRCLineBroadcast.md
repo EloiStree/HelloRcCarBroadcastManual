@@ -12,7 +12,11 @@ ldsjfl:STAG:R:ALIVE
 
 
 // Loaded scene name
-G:SCENE:BATTLEARENA
+G:METAINFORMATION
+
+// Given Key value maybe useful to the player
+GKV:Key:Value
+GKV:SCENE:BATTLEARENA
 
 
 
