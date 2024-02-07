@@ -6,7 +6,7 @@
 // TAG Won't be use a variable that need to change oftne but can be use to manage state as ALIVE DISABLE 
 nPJfL0:STAG:S:BALL TEAMBLUE 
 ldsjfl:STAG:S:DRONE PLAYER ALIVE 
-ldsjfl:STAG:A:FLYING INDEX2
+ldsjfl:STAG:A:FLYING INDEX2 TEAMBLUE
 ldsjfl:STAG:R:ALIVE
 
 
