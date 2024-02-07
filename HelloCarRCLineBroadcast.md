@@ -36,6 +36,7 @@ GKV:MATCHTYPE: MATCHBATTLE  // Interaction only for accepted player
 
 AL: ADMIN Message to the player
 DL: Developer Message to the player
+CL: Community Message to the player
 
 
 // Group of id element in game
