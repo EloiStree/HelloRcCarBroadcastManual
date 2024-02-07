@@ -2,7 +2,7 @@
 ```
 //Notify that a object is part of a tag group
 // STAG is an append and can be done in several pieces.
-// S set the tag to given, A Append the tag, R Remove tag of group
+// S set the tag to given,   A Append the tag,     R Remove tag of group
 // TAG Won't be use a variable that need to change oftne but can be use to manage state as ALIVE DISABLE 
 nPJfL0:STAG:S:BALL TEAMBLUE ALIVE
 nPJfL0:STAG:A:DRONE RED INDEX1
