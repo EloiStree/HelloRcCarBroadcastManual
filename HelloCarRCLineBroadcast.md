@@ -34,7 +34,8 @@ GKV:MATCHTYPE: TWITCHPLAYBATTLE  // Any one can play the current game
 GKV:MATCHTYPE: MATCHBATTLE  // Interaction only for accepted player
 
 
-AL: ADMIN Message to the player
+SL: Server Log Message to the player
+AL: Admin Message to the player
 DL: Developer Message to the player
 CL: Community Message to the player
 
