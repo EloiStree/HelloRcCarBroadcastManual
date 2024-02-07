@@ -106,7 +106,7 @@ nPJfL0:S3DM: 8668c072-6974-45ff-abff-50976fa9cd14
 nPJfL0:SLUA: 8668c072-6974-45ff-abff-50976fa9cd14
 
 
-nPJfL0:SBBC: C {Complex shape}
+nPJfL0:SBBC:C: {Complex shape}
 |Vector3 m_wheelOffsetFrontLeft;
 |Vector3 m_wheelOffsetFrontRight;
 |Vector3 m_wheelOffsetBackLeft;
@@ -124,7 +124,7 @@ nPJfL0:SBBC: C {Complex shape}
 
 
 
-nPJfL0:SBBC: D {Complex shape}
+nPJfL0:SBBC:D: {Complex shape}
 |Vector3 m_bladeOffsetFrontLeft;
 |Vector3 m_bladeOffsetFrontRight;
 |Vector3 m_bladeOffsetBackLeft;
