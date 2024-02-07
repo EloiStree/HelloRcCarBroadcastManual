@@ -25,12 +25,13 @@ START
 // Stop sending information to the players
 STOP
 
-Time:DateTime.Now() Tick
+TIME:DateTime.Now() Tick
+TIME:
 
 // Position
 // t = euleur rotation, T = Quaternion rotation
-nPJfL0:t:Vx Vy Vz Ex Ey Ez 
-nPJfL0:T:Vx Vy Vz Qx Qy Qz Qw
+nPJfL0:t:Vx Vy Vz|Ex Ey Ez 
+nPJfL0:T:Vx Vy Vz|Qx Qy Qz Qw
 
 // SXXX for Status S for status XXX for format id.
 // TB:: for Trigger Broadcast
