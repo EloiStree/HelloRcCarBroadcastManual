@@ -79,7 +79,7 @@ nPJfL0:SBBC: C {Complex shape}
 
 
 
-nPJfL0:SBBC: C {Complex shape}
+nPJfL0:SBBC: D {Complex shape}
 |Vector3 m_bladeOffsetFrontLeft;
 |Vector3 m_bladeOffsetFrontRight;
 |Vector3 m_bladeOffsetBackLeft;
