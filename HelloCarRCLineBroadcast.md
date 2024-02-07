@@ -34,6 +34,9 @@ GKV:MATCHTYPE: TWITCHPLAYBATTLE  // Any one can play the current game
 GKV:MATCHTYPE: MATCHBATTLE  // Interaction only for accepted player
 
 
+AL: ADMIN Message to the player
+DL: Developer Message to the player
+
 
 // Group of id element in game
 nPJfL0:SIDS:532de1f9-a8ef-47b1-bc2f-f7e07f03490c:Red Car 0:-54678
