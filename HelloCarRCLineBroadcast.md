@@ -16,7 +16,22 @@ G:METAINFORMATION
 
 // Given Key value maybe useful to the player
 GKV:Key:Value
+// What is the scene of the game
 GKV:SCENE:BATTLEARENA
+// How many player are in game
+GKV:PLAYERCOUNT:12
+// Is the game considered as official
+GKV:OFFICIALMATCH:False
+
+// You can only play if you are identify with a private key message (see future doc)
+GKV:CRYPTOKEYONLY:False
+
+GKV:MATCHTYPE: LUABATTLE  // The match is offline with LUA script loaded
+GKV:MATCHTYPE: RASPBERRYBATTLE  // The match is offline with script running on raspberry pi
+GKV:MATCHTYPE: WEBDEVOFFLINEBATTLE  // The match is offline with script running on webpage
+GKV:MATCHTYPE: WEBDEVONLINEBATTLE  // The match is offline with script running on webpage on the web
+GKV:MATCHTYPE: TWITCHPLAYBATTLE  // Any one can play the current game
+GKV:MATCHTYPE: MATCHBATTLE  // Interaction only for accepted player
 
 
 
