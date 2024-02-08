@@ -13,10 +13,9 @@ ldsjfl:STAG:R:ALIVE
 
 
 // Blade information
-// MAX SPEED
-ldsjfl:SAA0:MAX:2400 2400 2400 2400
 // Percent 0-1 of the blade speed percent
-ldsjfl:SAA0:P: 1 1 1 1
+//2400 Is the max angle rotation speed of the blade
+ldsjfl:SAA0: 1 1 1 1 2400
 
 // Car wheel information
 // 33 angle lt, rt, lb,rb, of the wheel as clock type 0-360
@@ -155,6 +154,15 @@ Vector3 m_bladeOffsetFrontLeft;
 |float   m_widthOfBoxCollider;
 |float   m_depthOfBoxCollider;
 
+
+
+//TO ADD
+// Player COLOR RGBA
+string.Format($"{id}:SCOL:P:{ColFF(r)}{ColFF(g)}{ColFF(b)}{ColFF(a)}") 
+nPJfL0:SCOL:P:FF00FFFF
+// Team COLOR RGBA
+string.Format($"{id}:SCOL:P:{ColFF(r)}{ColFF(g)}{ColFF(b)}{ColFF(a)}") 
+nPJfL0:SCOL:P:FF0010FF
 
 ```
 
