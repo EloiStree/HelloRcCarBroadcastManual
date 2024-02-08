@@ -155,7 +155,7 @@ Vector3 m_bladeOffsetFrontLeft;
 |float   m_depthOfBoxCollider;
 
 
-
+//Give meta information that can be usefull as Key value info. Dynamic list.
 ID:SKVS:KEY:VALUE
 
 //TO ADD
