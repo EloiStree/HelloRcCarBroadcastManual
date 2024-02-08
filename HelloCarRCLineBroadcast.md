@@ -156,13 +156,15 @@ Vector3 m_bladeOffsetFrontLeft;
 
 
 
+ID:SKVS:KEY:VALUE
+
 //TO ADD
 // Player COLOR RGBA
 string.Format($"{id}:SCOL:P:{ColFF(r)}{ColFF(g)}{ColFF(b)}{ColFF(a)}") 
-nPJfL0:SCOL:P:FF00FFFF
+nPJfL0:SKVS:CP:FF00FFFF
 // Team COLOR RGBA
 string.Format($"{id}:SCOL:P:{ColFF(r)}{ColFF(g)}{ColFF(b)}{ColFF(a)}") 
-nPJfL0:SCOL:P:FF0010FF
+nPJfL0:SKVS:CT:FF0010FF
 
 ```
 
