@@ -15,13 +15,13 @@ ldsjfl:STAG:R:ALIVE
 // Blade information
 // Percent 0-1 of the blade speed percent
 //2400 Is the max angle rotation speed of the blade
-ldsjfl:SAA0: 1 1 1 1 2400
+ldsjfl:SAA0:C: 1 1 1 1 2400
 
 // Car wheel information
 // 33 angle lt, rt, lb,rb, of the wheel as clock type 0-360
 // 240 rotation angle per second 0 = motor off
 // 33 is the exact angle when 240 is to interpolate rotation.
-ldsjfl:SAA1: 33 33 33 33| 240 240 240 240
+ldsjfl:SAA1:D: 33 33 33 33| 240 240 240 240
 
 
 
