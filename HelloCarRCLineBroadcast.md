@@ -11,6 +11,22 @@ ldsjfl:STAG:A:FLYING INDEX2 TEAMBLUE
 ldsjfl:STAG:R:ALIVE
 
 
+
+// Blade information
+// MAX SPEED
+ldsjfl:SAA0:MAX:2400 2400 2400 2400
+// Percent 0-1 of the blade speed percent
+ldsjfl:SAA0:P: 1 1 1 1
+
+// Car wheel information
+// 33 angle lt, rt, lb,rb, of the wheel as clock type 0-360
+// 240 rotation angle per second 0 = motor off
+// 33 is the exact angle when 240 is to interpolate rotation.
+ldsjfl:SAA1: 33 33 33 33| 240 240 240 240
+
+
+
+
 // Loaded scene name
 G:METAINFORMATION
 
