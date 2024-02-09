@@ -1,6 +1,18 @@
 
 ```
-COMMAND#SHORTID#REST OF THE COMANND
+
+/!\ IMPORTANT /!\
+COMMAND # SHORTID # REST OF THE COMANND
+
+
+In aim to optimise the server later in the game by doing COMMAND Filtering.
+All command must respect this convention
+- Start with a COMMAND ID
+- SHORT ID is a id of an element in the game must be under 7 char AlphaNum
+-If a command is for the game an not an item in the game it is write COMMAND## Rest of the command
+
+
+
 
 
 //Notify that a object is part of a tag group
