@@ -7,7 +7,7 @@ IF YOU LOOK FOR other information refer to the UTF8 BROADCAST SERVER
 Note: Command could be one byte but just in case I change the design of the game and need more command I use two bytes.
 
 USHORT+USHORT+ULONG+BYTE[]
-1 bytes+ 1bytes + 8bytes + payload
+1 bytes+ 1bytes +6bytes + payload
 GAMECOMMAD+ITEMTYPE+ITEMID+ITEM INFO
 
 GAMECOMMAND:
