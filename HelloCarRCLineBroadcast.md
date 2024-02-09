@@ -29,7 +29,7 @@ STAG:R#ldsjfl#ALIVE
 SIDS#ldsjfl#-654654, Red Car 1
 
 
-//G:TG# 
+//G:TG##
 
 
 // Blade information
@@ -50,7 +50,7 @@ SAA1:C#ldsjfl# 33 33 33 33| 240 240 240 240
 
 
 // Loaded scene name
-G:METAINFORMATION
+G:METAINFORMATION##
 
 // Given Key value maybe useful to the player
 GKV##Key:Value
