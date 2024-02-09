@@ -29,9 +29,6 @@ STAG:R#ldsjfl#ALIVE
 SIDS#ldsjfl#-654654, Red Car 1
 
 
-//G:TG##
-
-
 // Blade information
 // Percent 0-1 of the blade speed percent
 //2400 Is the max angle rotation speed of the blade
@@ -47,10 +44,6 @@ SAA0:D#ldsjfl# 1 1 1 1 2400
 SAA1:C#ldsjfl# 33 33 33 33| 240 240 240 240
 
 
-
-
-// Loaded scene name
-G:METAINFORMATION##
 
 // Given Key value maybe useful to the player
 GKV##Key:Value
