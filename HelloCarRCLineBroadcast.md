@@ -2,10 +2,10 @@
 ```
 
 //State Motor of drone 0=0 1=-1 9=1  left right
-SMOT:C#ID#99
+SMC#ID#99
 
 //State Motor of drone 0=0 1=-1 9=1  Left Front, Right Front,Left Back, Right Back
-SMOT:D#ID#9999
+SMD#ID#9999
 
 
 
