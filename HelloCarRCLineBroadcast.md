@@ -4,7 +4,8 @@
 //State Motor of drone 0=0 1=-1 9=1  left right
 SMC#ID#9999
 
-//State Motor of drone 0=0 1=-1 9=1  Left Front, Right Front,Left Back, Right Back
+//State Motor of drone 0=0  9=1  Left Front, Right Front,Left Back, Right Back
+// Drone blade on only in one speed rotation
 SMD#ID#9999
 
 
