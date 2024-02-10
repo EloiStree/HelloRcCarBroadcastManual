@@ -2,11 +2,11 @@
 ```
 
 //State Motor of drone 0=0 1=-1 9=1  left right
-SMC#ID#9999
+FMC#ID#9999
 
 //State Motor of drone 0=0  9=1  Left Front, Right Front,Left Back, Right Back
 // Drone blade on only in one speed rotation
-SMD#ID#9999
+FMD#ID#9999
 
 
 
@@ -51,7 +51,11 @@ SAA0:D#ldsjfl# 1 1 1 1 2400
 // 33 angle lt, rt, lb,rb, of the wheel as clock type 0-360
 // 240 rotation angle per second 0 = motor off
 // 33 is the exact angle when 240 is to interpolate rotation.
-SAA1:C#ldsjfl# 33 33 33 33| 240 240 240 240
+// F instead of S because it should be send to 10-60 fps
+FAA1:CA#ldsjfl#33 33 33 33
+// Max speed
+SAA1:CS#ldsjfl#240 240 240 240
+SAA1:C#ldsjfl#240 240 240 240
 
 
 
