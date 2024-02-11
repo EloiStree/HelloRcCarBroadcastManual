@@ -11,6 +11,8 @@ FMD#ID#9999
 
 
 
+
+
 /!\ IMPORTANT /!\
 COMMAND # SHORTID # REST OF THE COMANND
 
@@ -137,6 +139,9 @@ SAAB:B#nPJfL0#Radius
 
 // ID of the skin to use from the Munity DB
 S3DM#nPJfL0# 8668c072-6974-45ff-abff-50976fa9cd14
+
+
+S3DM:Arena#nPJfL0# 8668c072-6974-45ff-abff-50976fa9cd14
 
 // If lua battle, id of the lua code use for the element
 SLUA#nPJfL0# 8668c072-6974-45ff-abff-50976fa9cd14
