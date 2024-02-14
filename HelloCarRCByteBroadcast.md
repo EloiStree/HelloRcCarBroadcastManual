@@ -6,9 +6,10 @@ IF YOU LOOK FOR other information refer to the UTF8 BROADCAST SERVER
 
 Note: Command could be one byte but just in case I change the design of the game and need more command I use two bytes.
 
-USHORT+USHORT+ULONG+BYTE[]
+USHORT+USHORT+bytes+BYTE[]
 1 bytes+ 1bytes +6bytes + payload
 GAMECOMMAD+ITEMTYPE+ITEMID+ITEM INFO
+
 
 GAMECOMMAND:
 0 = RESERVER
@@ -22,6 +23,8 @@ ITEM TYPE:
 2 = CAR 
 3 = DRONE
 4 = BALL
+
+ITEMID 6 x byte as char
 
 
 C2 TN = (X Y Z) ARENA LOCAL POSITION  (X Y Z) ARENA LOCAL EULER ROTATION
